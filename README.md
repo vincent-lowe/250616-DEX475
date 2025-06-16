@@ -65,7 +65,9 @@ Classroom Playlist
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
 |Here You Come Again |Dolly Parton||
-
+|Midnight Train to Georgia|Gladys Knight||
+|Analog Hero|Mark Erelli|Mark wrote this about his dad|
+|This Old Town|Nanci Griffith||
 
 
 
