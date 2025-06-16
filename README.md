@@ -9,16 +9,16 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							
+Attendance Code:							82CF2D
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					
+eBook Redemption Key:					US9H2J7CKL0W
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:									
+Survey ID:									TASM-037215
 
 -------------------------------------------------------------------------------------------------------------------
 
