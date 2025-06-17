@@ -69,6 +69,7 @@ Classroom Playlist
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |This Old Town|Nanci Griffith||
 |Smooth Criminal|Luca Stricagnoli||
+|Hotel California|Moyun Official|The instrument was never meant for this!|
 
 
 
