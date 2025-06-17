@@ -73,4 +73,5 @@ Classroom Playlist
 |Tupelo Honey|Reina del Cid|now, Elle and Toni|
 |Sixteen Tons|Geoff Castellucci|All voices are Geoff|
 |It Ain't Over Yet|Rodney Crowell||
+|Can't Find My Way Home|Bonnie Raitt||
 
