@@ -68,6 +68,7 @@ Classroom Playlist
 |Midnight Train to Georgia|Gladys Knight||
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |This Old Town|Nanci Griffith||
+|Smooth Criminal|Luca Stricagnoli||
 
 
 
